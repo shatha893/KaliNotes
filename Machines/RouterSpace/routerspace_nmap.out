@@ -1,0 +1,1 @@
+# Nmap 7.92 scan initiated Tue May 24 04:07:10 2022 as: nmap -Pn -vv -oN routerspace_nmap.out 10.10.11.148
